@@ -1,0 +1,20 @@
+System Specifications
+CPU: Ubuntu 20.04
+#Processors:6
+Clock speed:3.00 Ghz
+
+#Threads used:1
+Time required for each step:0.057s
+Total simulation time: 11 hours 24 minutes
+
+#Threads used:2
+Time required for each step:0.052s
+Total simulation time: 10 hours 24 minutes
+
+#Threads used:4
+Time required for each step:0.0425s
+Total simulation time: 8 hours 30 minutes
+
+#Threads used:8
+Time required for each step:0.034s
+Total simulation time: 6 hours 54 minutes
